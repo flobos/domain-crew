@@ -1,4 +1,4 @@
-package com.latam.moss.domain;
+package com.moss.latam.domain;
 
 import lombok.Data;
 import java.util.Date;
